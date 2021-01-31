@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
   <img alt="Ícone do projeto" title="" src=".github/logo.svg" width="400px" />
 </h1>
@@ -6,7 +5,7 @@
 ## 🖥 Preview 
 
 <div align="center">
-  <img src=".github/desk-light.svg" alt="Exemplo da interface no desktop" style="width: 100%;">  
+  <img src=".github/prewiew.svg" alt="Exemplo da interface no desktop" style="width: 100%;">  
 </div>
 
 ## 📌 Table of Contents
