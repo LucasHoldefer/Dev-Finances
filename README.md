@@ -5,7 +5,7 @@
 ## 🖥 Preview 
 
 <div align="center">
-  <img src=".github/prewiew.svg" alt="Exemplo da interface no desktop" style="width: 100%;">  
+  <img src=".github/preview.svg" alt="Exemplo da interface no desktop" style="width: 100%;">  
 </div>
 
 ## 📌 Table of Contents
