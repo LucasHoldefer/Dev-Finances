@@ -28,8 +28,8 @@
 
 System developed to help people with their finances. This is a project developed at the DIscover Marathon, carried out by [Rocketseat](https://github.com/Rocketseat), with the instruction of Mayk Brito.
 
-## 💡 Implementation ideas
-
+## 💡 My ideas implanted
+ - ⬛ Dark Mode
 
 
 ## ⬇ Installation
